@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DDEE72BB-6930-47B1-BCDC-D7F3FF3572EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hash_Table/Program.cs">
+    <Files>
+      <File FileName="Hash_Table/Program.cs" Line="81" Column="84" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hash_Table" expanded="True">
+            <Node name="Hash_Table" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Hash__Table PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/seethesoul/Projects/Hash_Table/Hash_Table/bin/Debug/Hash_Table.exe
+/Users/seethesoul/Projects/Hash_Table/Hash_Table/bin/Debug/Hash_Table.pdb
+/Users/seethesoul/Projects/Hash_Table/Hash_Table/obj/Debug/Hash_Table.csprojAssemblyReference.cache
+/Users/seethesoul/Projects/Hash_Table/Hash_Table/obj/Debug/Hash_Table.csproj.CoreCompileInputs.cache
+/Users/seethesoul/Projects/Hash_Table/Hash_Table/obj/Debug/Hash_Table.exe
+/Users/seethesoul/Projects/Hash_Table/Hash_Table/obj/Debug/Hash_Table.pdb

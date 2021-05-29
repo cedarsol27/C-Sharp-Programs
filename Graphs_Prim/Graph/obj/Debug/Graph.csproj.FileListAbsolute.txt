@@ -1,0 +1,6 @@
+/Users/seethesoul/Documents/Java/Graph/Graph/obj/Debug/Graph.csprojAssemblyReference.cache
+/Users/seethesoul/Documents/Java/Graph/Graph/obj/Debug/Graph.csproj.CoreCompileInputs.cache
+/Users/seethesoul/Documents/Java/Graph/Graph/bin/Debug/Graph.exe
+/Users/seethesoul/Documents/Java/Graph/Graph/bin/Debug/Graph.pdb
+/Users/seethesoul/Documents/Java/Graph/Graph/obj/Debug/Graph.exe
+/Users/seethesoul/Documents/Java/Graph/Graph/obj/Debug/Graph.pdb
